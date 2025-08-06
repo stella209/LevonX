@@ -1,0 +1,240 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <ProjectGuid>{C1D6A1E1-A981-4D44-891F-D2F090D56092}</ProjectGuid>
+    </PropertyGroup>
+    <ItemGroup>
+        <Projects Include="CPort\Source\CPortLibDXE.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="CPort\Source\DsgnCPortDXE.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="ALKomp.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="RC6\RC6_Uj\Source\RaizeComponentsVcl.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="RC6\RC6_Uj\Source\RaizeComponentsVcl_Design.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="RC6\RC6_Uj\Source\RaizeComponentsVclDb.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="RC6\RC6_Uj\Source\RaizeComponentsVclDb_Design.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="RxLib\units\packages_DXE5\RtmRxCtl190.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="RxLib\units\packages_DXE5\RtmRxDB190.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="RxLib\units\packages_DXE5\RtmRxBde190.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="RxLib\units\packages_DXE5\DclRxCtl190.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="RxLib\units\packages_DXE5\DclRxDB190.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="RxLib\units\packages_DXE5\DclRxBde190.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="ObjInsp\Source\OIPKGXE5.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="Skin\ac\acntDelphiXE.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="Skin\ac\acntDelphiXE_R_XE5.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="SVG\SVGLib\SVGPackage.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="VGScene\packages\vgscene_d2010.dproj">
+            <Dependencies/>
+        </Projects>
+    </ItemGroup>
+    <ProjectExtensions>
+        <Borland.Personality>Default.Personality.12</Borland.Personality>
+        <Borland.ProjectType/>
+        <BorlandProject>
+            <Default.Personality/>
+        </BorlandProject>
+    </ProjectExtensions>
+    <Target Name="CPortLibDXE">
+        <MSBuild Projects="CPort\Source\CPortLibDXE.dproj"/>
+    </Target>
+    <Target Name="CPortLibDXE:Clean">
+        <MSBuild Projects="CPort\Source\CPortLibDXE.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="CPortLibDXE:Make">
+        <MSBuild Projects="CPort\Source\CPortLibDXE.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="DsgnCPortDXE">
+        <MSBuild Projects="CPort\Source\DsgnCPortDXE.dproj"/>
+    </Target>
+    <Target Name="DsgnCPortDXE:Clean">
+        <MSBuild Projects="CPort\Source\DsgnCPortDXE.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="DsgnCPortDXE:Make">
+        <MSBuild Projects="CPort\Source\DsgnCPortDXE.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="ALKomp">
+        <MSBuild Projects="ALKomp.dproj"/>
+    </Target>
+    <Target Name="ALKomp:Clean">
+        <MSBuild Projects="ALKomp.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="ALKomp:Make">
+        <MSBuild Projects="ALKomp.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="RaizeComponentsVcl">
+        <MSBuild Projects="RC6\RC6_Uj\Source\RaizeComponentsVcl.dproj"/>
+    </Target>
+    <Target Name="RaizeComponentsVcl:Clean">
+        <MSBuild Projects="RC6\RC6_Uj\Source\RaizeComponentsVcl.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="RaizeComponentsVcl:Make">
+        <MSBuild Projects="RC6\RC6_Uj\Source\RaizeComponentsVcl.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="RaizeComponentsVcl_Design">
+        <MSBuild Projects="RC6\RC6_Uj\Source\RaizeComponentsVcl_Design.dproj"/>
+    </Target>
+    <Target Name="RaizeComponentsVcl_Design:Clean">
+        <MSBuild Projects="RC6\RC6_Uj\Source\RaizeComponentsVcl_Design.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="RaizeComponentsVcl_Design:Make">
+        <MSBuild Projects="RC6\RC6_Uj\Source\RaizeComponentsVcl_Design.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="RaizeComponentsVclDb">
+        <MSBuild Projects="RC6\RC6_Uj\Source\RaizeComponentsVclDb.dproj"/>
+    </Target>
+    <Target Name="RaizeComponentsVclDb:Clean">
+        <MSBuild Projects="RC6\RC6_Uj\Source\RaizeComponentsVclDb.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="RaizeComponentsVclDb:Make">
+        <MSBuild Projects="RC6\RC6_Uj\Source\RaizeComponentsVclDb.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="RaizeComponentsVclDb_Design">
+        <MSBuild Projects="RC6\RC6_Uj\Source\RaizeComponentsVclDb_Design.dproj"/>
+    </Target>
+    <Target Name="RaizeComponentsVclDb_Design:Clean">
+        <MSBuild Projects="RC6\RC6_Uj\Source\RaizeComponentsVclDb_Design.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="RaizeComponentsVclDb_Design:Make">
+        <MSBuild Projects="RC6\RC6_Uj\Source\RaizeComponentsVclDb_Design.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="RtmRxCtl190">
+        <MSBuild Projects="RxLib\units\packages_DXE5\RtmRxCtl190.dproj"/>
+    </Target>
+    <Target Name="RtmRxCtl190:Clean">
+        <MSBuild Projects="RxLib\units\packages_DXE5\RtmRxCtl190.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="RtmRxCtl190:Make">
+        <MSBuild Projects="RxLib\units\packages_DXE5\RtmRxCtl190.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="RtmRxDB190">
+        <MSBuild Projects="RxLib\units\packages_DXE5\RtmRxDB190.dproj"/>
+    </Target>
+    <Target Name="RtmRxDB190:Clean">
+        <MSBuild Projects="RxLib\units\packages_DXE5\RtmRxDB190.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="RtmRxDB190:Make">
+        <MSBuild Projects="RxLib\units\packages_DXE5\RtmRxDB190.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="RtmRxBde190">
+        <MSBuild Projects="RxLib\units\packages_DXE5\RtmRxBde190.dproj"/>
+    </Target>
+    <Target Name="RtmRxBde190:Clean">
+        <MSBuild Projects="RxLib\units\packages_DXE5\RtmRxBde190.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="RtmRxBde190:Make">
+        <MSBuild Projects="RxLib\units\packages_DXE5\RtmRxBde190.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="DclRxCtl190">
+        <MSBuild Projects="RxLib\units\packages_DXE5\DclRxCtl190.dproj"/>
+    </Target>
+    <Target Name="DclRxCtl190:Clean">
+        <MSBuild Projects="RxLib\units\packages_DXE5\DclRxCtl190.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="DclRxCtl190:Make">
+        <MSBuild Projects="RxLib\units\packages_DXE5\DclRxCtl190.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="DclRxDB190">
+        <MSBuild Projects="RxLib\units\packages_DXE5\DclRxDB190.dproj"/>
+    </Target>
+    <Target Name="DclRxDB190:Clean">
+        <MSBuild Projects="RxLib\units\packages_DXE5\DclRxDB190.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="DclRxDB190:Make">
+        <MSBuild Projects="RxLib\units\packages_DXE5\DclRxDB190.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="DclRxBde190">
+        <MSBuild Projects="RxLib\units\packages_DXE5\DclRxBde190.dproj"/>
+    </Target>
+    <Target Name="DclRxBde190:Clean">
+        <MSBuild Projects="RxLib\units\packages_DXE5\DclRxBde190.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="DclRxBde190:Make">
+        <MSBuild Projects="RxLib\units\packages_DXE5\DclRxBde190.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="OIPKGXE5">
+        <MSBuild Projects="ObjInsp\Source\OIPKGXE5.dproj"/>
+    </Target>
+    <Target Name="OIPKGXE5:Clean">
+        <MSBuild Projects="ObjInsp\Source\OIPKGXE5.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="OIPKGXE5:Make">
+        <MSBuild Projects="ObjInsp\Source\OIPKGXE5.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="acntDelphiXE">
+        <MSBuild Projects="Skin\ac\acntDelphiXE.dproj"/>
+    </Target>
+    <Target Name="acntDelphiXE:Clean">
+        <MSBuild Projects="Skin\ac\acntDelphiXE.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="acntDelphiXE:Make">
+        <MSBuild Projects="Skin\ac\acntDelphiXE.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="acntDelphiXE_R_XE5">
+        <MSBuild Projects="Skin\ac\acntDelphiXE_R_XE5.dproj"/>
+    </Target>
+    <Target Name="acntDelphiXE_R_XE5:Clean">
+        <MSBuild Projects="Skin\ac\acntDelphiXE_R_XE5.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="acntDelphiXE_R_XE5:Make">
+        <MSBuild Projects="Skin\ac\acntDelphiXE_R_XE5.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="SVGPackage">
+        <MSBuild Projects="SVG\SVGLib\SVGPackage.dproj"/>
+    </Target>
+    <Target Name="SVGPackage:Clean">
+        <MSBuild Projects="SVG\SVGLib\SVGPackage.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="SVGPackage:Make">
+        <MSBuild Projects="SVG\SVGLib\SVGPackage.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="vgscene_d2010">
+        <MSBuild Projects="VGScene\packages\vgscene_d2010.dproj"/>
+    </Target>
+    <Target Name="vgscene_d2010:Clean">
+        <MSBuild Projects="VGScene\packages\vgscene_d2010.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="vgscene_d2010:Make">
+        <MSBuild Projects="VGScene\packages\vgscene_d2010.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Build">
+        <CallTarget Targets="CPortLibDXE;DsgnCPortDXE;ALKomp;RaizeComponentsVcl;RaizeComponentsVcl_Design;RaizeComponentsVclDb;RaizeComponentsVclDb_Design;RtmRxCtl190;RtmRxDB190;RtmRxBde190;DclRxCtl190;DclRxDB190;DclRxBde190;OIPKGXE5;acntDelphiXE;acntDelphiXE_R_XE5;SVGPackage;vgscene_d2010"/>
+    </Target>
+    <Target Name="Clean">
+        <CallTarget Targets="CPortLibDXE:Clean;DsgnCPortDXE:Clean;ALKomp:Clean;RaizeComponentsVcl:Clean;RaizeComponentsVcl_Design:Clean;RaizeComponentsVclDb:Clean;RaizeComponentsVclDb_Design:Clean;RtmRxCtl190:Clean;RtmRxDB190:Clean;RtmRxBde190:Clean;DclRxCtl190:Clean;DclRxDB190:Clean;DclRxBde190:Clean;OIPKGXE5:Clean;acntDelphiXE:Clean;acntDelphiXE_R_XE5:Clean;SVGPackage:Clean;vgscene_d2010:Clean"/>
+    </Target>
+    <Target Name="Make">
+        <CallTarget Targets="CPortLibDXE:Make;DsgnCPortDXE:Make;ALKomp:Make;RaizeComponentsVcl:Make;RaizeComponentsVcl_Design:Make;RaizeComponentsVclDb:Make;RaizeComponentsVclDb_Design:Make;RtmRxCtl190:Make;RtmRxDB190:Make;RtmRxBde190:Make;DclRxCtl190:Make;DclRxDB190:Make;DclRxBde190:Make;OIPKGXE5:Make;acntDelphiXE:Make;acntDelphiXE_R_XE5:Make;SVGPackage:Make;vgscene_d2010:Make"/>
+    </Target>
+    <Import Project="$(BDS)\Bin\CodeGear.Group.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')"/>
+</Project>
