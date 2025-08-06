@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2020/10/10 17:32:33.169,=rtl.dcp</Transaction>
+    <Transaction>2020/10/10 17:33:00.856,C:\Users\zavik\Documents\RAD Studio\Projects\STAFComp.dproj=C:\Users\zavik\Documents\RAD Studio\Projects\Package1.dproj</Transaction>
+    <Transaction>2020/10/10 17:33:52.101,=C:\Stella\XE5\KompXE\STAF\STAF_ASCOM.pas</Transaction>
+    <Transaction>2020/10/10 17:34:22.615,C:\Stella\XE5\KompXE\STAF\STAFComp.dproj=C:\Users\zavik\Documents\RAD Studio\Projects\STAFComp.dproj</Transaction>
+    <Transaction>2020/10/10 17:34:38.964,=vcl.dcp</Transaction>
+    <Transaction>2020/10/10 17:34:39.006,=ALKomp.dcp</Transaction>
+  </Transactions>
+</BorlandProject>

@@ -1,0 +1,57 @@
+package STAF;
+
+{$R *.res}
+{$R 'STAF_Canon.dcr'}
+{$R 'AL_SkyMap.dcr'}
+{$R 'ORAPAN.dcr'}
+{$IFDEF IMPLICITBUILDING This IFDEF should not be used by users}
+{$ALIGN 8}
+{$ASSERTIONS ON}
+{$BOOLEVAL OFF}
+{$DEBUGINFO ON}
+{$EXTENDEDSYNTAX ON}
+{$IMPORTEDDATA ON}
+{$IOCHECKS ON}
+{$LOCALSYMBOLS ON}
+{$LONGSTRINGS ON}
+{$OPENSTRINGS ON}
+{$OPTIMIZATION OFF}
+{$OVERFLOWCHECKS OFF}
+{$RANGECHECKS OFF}
+{$REFERENCEINFO ON}
+{$SAFEDIVIDE OFF}
+{$STACKFRAMES ON}
+{$TYPEDADDRESS OFF}
+{$VARSTRINGCHECKS ON}
+{$WRITEABLECONST OFF}
+{$MINENUMSIZE 1}
+{$IMAGEBASE $400000}
+{$DEFINE DEBUG}
+{$ENDIF IMPLICITBUILDING}
+{$IMPLICITBUILD OFF}
+
+requires
+  rtl,
+  vcl,
+  vclimg;
+
+contains
+  STAF_ASCOM in 'STAF_ASCOM.pas',
+  STAF_Canon in 'STAF_Canon.pas',
+  EDSDKType in 'EDSDKType.pas',
+  EDSDKApi in 'EDSDKApi.pas',
+  EDSDKError in 'EDSDKError.pas',
+  STAF_AstroUnit in 'STAF_AstroUnit.PAS',
+  AL_Globe in 'AL_Globe.pas',
+  AL_SkyMap in 'AL_SkyMap.pas',
+  NewGeom in 'NewGeom.pas',
+  STAF_Imp in 'STAF_Imp.pas',
+  Szoveg in 'Szoveg.pas',
+  PTD_CALC in 'PTD_CALC.pas',
+  Szamok in 'Szamok.pas',
+  ORAPAN in '..\ORAPAN.pas',
+  Al_TSpeedButton in '..\Al_TSpeedButton.pas',
+  janFX in '..\janFX.pas';
+
+end.
+

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899/12/30 00:00:00.000.pas,C:\Program Files\Borland\BDS\3.0\Komp2005\STAF\AL_Img.pas=</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.625,C:\Stella\XE5\KompXE\AL_ZoomImg.pas=</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.501,=C:\Stella\XE5\KompXE\janFX.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.dcr,C:\Program Files\Borland\BDS\3.0\Komp2005\STAF\AL_Img.dcr=</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.pas,C:\Program Files\Borland\BDS\3.0\Komp2005\STAF\STAF_EOS.pas=</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.262,C:\Stella\XE5\KompXE\STAF\test.pas=</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.063,=vclimg.dcp</Transaction>
+  </Transactions>
+</BorlandProject>
