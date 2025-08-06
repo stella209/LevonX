@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899/12/30 00:00:00.000.183,C:\STAF\XE5\Test\LevonX\Unit1.pas=C:\STAF\XE5\Test\LevonX\Main_Levon.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.480,C:\STAF\XE5\Test\LevonX\Unit1.pas=</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.353,=C:\STAF\XE5\Test\LevonX\_SKALAZ.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.171,C:\STAF\XE5\Test\LevonX\Unit_Levon.pas=C:\STAF\XE5\Test\LevonX\Unit2.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.637,=C:\STAF\XE5\Test\LevonX\Unit1.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.995,=C:\STAF\XE5\Test\LevonX\Unit2.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.924,=C:\STAF\XE5\Test\LevonX\Unit2.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.896,C:\STAF\XE5\Test\LevonX\_ClipBookView.dfm=C:\STAF\XE5\Test\LevonX\Unit2.dfm</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.375,=C:\STAF\XE5\Test\LevonX\Unit2.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.714,C:\STAF\LevonX\Versions\LevonX 2.0\_SablonDlg.dfm=C:\STAF\LevonX\Versions\LevonX 2.0\Unit2.dfm</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.952,C:\STAF\XE5\Test\LevonX\Unit2.dfm=C:\STAF\XE5\Test\LevonX\_Maszk.dfm</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.647,=C:\STAF\XE5\Test\LevonX\_About.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.156,=C:\STAF\XE5\Test\LevonX\_Rsize.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.489,C:\STAF\XE5\Test\LevonX\Unit2.dfm=C:\STAF\XE5\Test\LevonX\_FixTerDialog.dfm</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.245,C:\STAF\XE5\Test\LevonX\_FlatKorrekt.pas=C:\STAF\XE5\Test\LevonX\Unit2.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.714,C:\STAF\LevonX\Versions\LevonX 2.0\_SablonDlg.pas=C:\STAF\LevonX\Versions\LevonX 2.0\Unit2.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.005,C:\STAF\XE5\Test\LevonX\Unit2.dfm=C:\STAF\XE5\Test\LevonX\_Ujform.dfm</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.284,C:\STAF\XE5\Test\LevonX\Unit2.dfm=C:\STAF\XE5\Test\LevonX\_FotoMetGraph.dfm</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.809,=C:\STAF\XE5\Test\LevonX\Unit2.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.077,=C:\STAF\LevonX\Versions\LevonX 2.0\Unit2.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.765,C:\STAF\LevonX\Versions\LevonX 2.0\Unit2.pas=C:\STAF\LevonX\Versions\LevonX 2.0\STAF_History.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.982,C:\STAF\XE5\Test\LevonX\_Konvol.dfm=C:\STAF\XE5\Test\LevonX\Unit2.dfm</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.510,=C:\STAF\LevonX\Versions\LevonX 2.0\Unit2.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.183,C:\STAF\XE5\Test\LevonX\Unit1.dfm=C:\STAF\XE5\Test\LevonX\Main_Levon.dfm</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.245,C:\STAF\XE5\Test\LevonX\_FlatKorrekt.dfm=C:\STAF\XE5\Test\LevonX\Unit2.dfm</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.895,C:\STAF\XE5\Test\LevonX\_ClipBookView.pas=C:\STAF\XE5\Test\LevonX\Unit2.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.087,=C:\STAF\XE5\Test\LevonX\_FullScreen.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.981,C:\STAF\XE5\Test\LevonX\_Konvol.pas=C:\STAF\XE5\Test\LevonX\Unit2.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.284,C:\STAF\XE5\Test\LevonX\Unit2.pas=C:\STAF\XE5\Test\LevonX\_FotoMetGraph.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.338,=C:\STAF\XE5\Test\LevonX\Unit2.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.089,=C:\STAF\XE5\Test\LevonX\Unit2.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.804,=C:\STAF\XE5\Test\LevonX\Unit2.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.496,=C:\STAF\XE5\Test\LevonX\Unit2.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.005,C:\STAF\XE5\Test\LevonX\Unit2.pas=C:\STAF\XE5\Test\LevonX\_Ujform.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.489,C:\STAF\XE5\Test\LevonX\Unit2.pas=C:\STAF\XE5\Test\LevonX\_FixTerDialog.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.834,=C:\STAF\XE5\Test\LevonX\Unit2.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.952,C:\STAF\XE5\Test\LevonX\Unit2.pas=C:\STAF\XE5\Test\LevonX\_Maszk.pas</Transaction>
+  </Transactions>
+</BorlandProject>
